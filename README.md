@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rozelin-dc&theme=algolia&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 [![github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rozelin-dc&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rozelin-dc&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rozelin-dc&layout=compact&theme=transparent&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
